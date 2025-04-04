@@ -1,0 +1,1 @@
+By leveraging Latent Dirichlet Allocation (LDA), a cutting-edge topic modelling technique, this project takes a closer look at the world of COVID-19 Twitter discourse, seeking to uncover the most pressing topics of discussion during the pandemic.
